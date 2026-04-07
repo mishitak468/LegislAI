@@ -1,0 +1,762 @@
+{
+    "bills": [
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-04",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "11",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Entitled the \"English Plus Resolution\".",
+            "type": "HCONRES",
+            "updateDate": "2025-07-21",
+            "updateDateIncludingText": "2025-07-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/11?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-05",
+                "text": "Sponsor introductory remarks on measure. (CR E22-23)"
+            },
+            "number": "12",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Requiring the display of the Ten Commandments in the United States Capitol.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-07",
+            "updateDateIncludingText": "2024-02-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/12?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-08",
+                "text": "Received in the Senate and referred to the Committee on Rules and Administration."
+            },
+            "number": "1",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Regarding consent to assemble outside the seat of government.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-14",
+            "updateDateIncludingText": "2025-01-14",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/1?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-11",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "22",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the President should provide notice of withdrawal of the United States from the North American Free Trade Agreement (NAFTA).",
+            "type": "HCONRES",
+            "updateDate": "2024-02-07",
+            "updateDateIncludingText": "2024-02-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/22?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-18",
+                "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "31",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the Mare Island Original 21ers for their efforts to remedy racial discrimination in employment at Mare Island Naval Shipyard.",
+            "type": "HCONRES",
+            "updateDate": "2025-07-21",
+            "updateDateIncludingText": "2025-07-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/31?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-23",
+                "text": "Referred to the Subcommittee on Highways and Transit."
+            },
+            "number": "40",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the United States should not engage in the construction of a North American Free Trade Agreement (NAFTA) Superhighway System or enter into a North American Union with Mexico and Canada.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-07",
+            "updateDateIncludingText": "2024-02-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/40?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-24",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "41",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for a conditional adjournment of the House of Representatives.",
+            "type": "HCONRES",
+            "updateDate": "2020-07-23",
+            "updateDateIncludingText": "2020-07-23",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/41?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-24",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "45",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress on the new strategy in Iraq.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/45?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-01-31",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "5",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation and goals of \"Hire a Veteran Week\" and encouraging the President to issue a proclamation supporting those goals.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/5?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-02",
+                "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
+            },
+            "number": "30",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Raising awareness and encouraging prevention of stalking by establishing January 2007 as \"National Stalking Awareness Month\".",
+            "type": "HCONRES",
+            "updateDate": "2025-12-05",
+            "updateDateIncludingText": "2025-12-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/30?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "51",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of National Wear Red Day.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-05",
+            "updateDateIncludingText": "2024-02-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/51?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-02",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Urging increased Federal funding for juvenile (Type 1) diabetes research.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-05",
+            "updateDateIncludingText": "2024-02-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/4?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-07",
+                "text": "Sponsor introductory remarks on measure. (CR H1311)"
+            },
+            "number": "35",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of National Black HIV/AIDS Awareness Day.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-21",
+            "updateDateIncludingText": "2025-04-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/35?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-16",
+                "text": "Referred to the House Committee on Education and Labor."
+            },
+            "number": "72",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing and honoring America's labor movement, supporting the designation of a National Labor History Month, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-07-21",
+            "updateDateIncludingText": "2025-07-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/72?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-27",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "70",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of National Celiac Awareness Month, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/70?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-02-27",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "75",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the global use of child soldiers is unacceptable and that the international community should find remedies end this practice.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/75?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-01",
+                "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "52",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of American Heart Month.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-21",
+            "updateDateIncludingText": "2025-04-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/52?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-06",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "82",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress that a commemorative postage stamp should be issued in honor of the USS New Jersey and all those who served aboard her.",
+            "type": "HCONRES",
+            "updateDate": "2025-02-04",
+            "updateDateIncludingText": "2025-02-04",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/82?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-07",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "81",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress regarding bone marrow diseases.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-07",
+            "updateDateIncludingText": "2025-04-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/81?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-09",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "85",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of National Cystic Fibrosis Awareness Month.",
+            "type": "HCONRES",
+            "updateDate": "2025-12-05",
+            "updateDateIncludingText": "2025-12-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/85?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "91",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the need for enhanced public awareness of traumatic brain injury and support for the designation of a National Brain Injury Awareness Month.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/91?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-19",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "20",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Calling on the Government of the United Kingdom to immediately establish a full, independent, and public judicial inquiry into the murder of Northern Ireland defense attorney Patrick Finucane, as recommended by Judge Peter Cory as part of the Weston Park Agreement, in order to move forward on the Northern Ireland peace process.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-07",
+            "updateDateIncludingText": "2025-04-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/20?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-20",
+                "text": "Committee Hearings Held."
+            },
+            "number": "15",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the Government of Iraq should not grant blanket amnesty to persons known to have attacked, killed, or wounded members of the United States Armed Forces in Iraq.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-28",
+            "updateDateIncludingText": "2025-04-28",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/15?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-20",
+                "text": "Committee Hearings Held."
+            },
+            "number": "65",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Disagreeing with the plan announced by the President on January 10, 2007, to increase by more than 20,000 the number of United States combat troops in Iraq, and urging the President instead to consider options and alternatives for achieving success in Iraq.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/65?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-21",
+                "text": "Received in the Senate and referred to the Committee on Armed Services."
+            },
+            "number": "42",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the heroic service and sacrifice of the glider pilots of the United States Army Air Forces during World War II.",
+            "type": "HCONRES",
+            "updateDate": "2025-12-05",
+            "updateDateIncludingText": "2025-12-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/42?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-29",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "110",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that Iraq should vote to approve or disapprove the continued deployment of United States Armed Forces to Iraq and, unless Iraq votes to approve such continued deployment, the President of the United States should commence the phased redeployment of United States Armed Forces from Iraq within 60 days of the Iraqi vote.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/110?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-03-30",
+                "text": "Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law."
+            },
+            "number": "102",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of observing the National Day of Human Trafficking Awareness each year to raise awareness of and opposition to human trafficking.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/102?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-03",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "90",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the dedication and honorable service of members of the Armed Forces who are serving or have served as military nurses.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/90?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-03",
+                "text": "Referred to the Subcommittee on Military Personnel."
+            },
+            "number": "92",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing and commending Dr. Robert Meaders and all of the volunteers and contributors of Operation Helmet for their efforts in sending out 35,000 helmet upgrade kits to members of the United States Armed Forces deployed in Iraq and Afghanistan.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/92?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-17",
+                "text": "Referred to the Subcommittee on International Organizations, Human Rights, and Oversight."
+            },
+            "number": "50",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Calling on the Government of Venezuela to uphold the human rights and civil liberties of the people of Venezuela.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-23",
+            "updateDateIncludingText": "2025-01-23",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/50?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-17",
+                "text": "Referred to the Subcommittee on International Organizations, Human Rights, and Oversight."
+            },
+            "number": "55",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing that the plight of Kashmiri Pandits has been an ongoing concern since 1989 and that their physical, political, and economic security should be safeguarded by the Government of India and the state government of Jammu and Kashmir.",
+            "type": "HCONRES",
+            "updateDate": "2025-12-04",
+            "updateDateIncludingText": "2025-12-04",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/55?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-18",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "100",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Condemning the recent violent actions of the Government of Zimbabwe against peaceful opposition party activists and members of civil society.",
+            "type": "HCONRES",
+            "updateDate": "2025-12-05",
+            "updateDateIncludingText": "2025-12-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/100?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-26",
+                "text": "Sponsor introductory remarks on measure. (CR H4200)"
+            },
+            "number": "10",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress that the tax give away since 2001 to the wealthiest 5 percent of Americans should be repealed and those monies instead invested in vital programs to relieve the growing burden on the working poor and to alleviate poverty in America.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-07",
+            "updateDateIncludingText": "2024-02-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/10?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-04-26",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "130",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of Mental Health Month, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/130?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-05-15",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "71",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Commemorating the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association (AHEPA), a leading association for the Nation's 1.3 million American citizens of Greek ancestry, and Philhellenes.",
+            "type": "HCONRES",
+            "updateDate": "2025-07-21",
+            "updateDateIncludingText": "2025-07-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/71?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-05-17",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "62",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideals of a National Children and Families Day, in order to encourage adults in the United States to support and listen to children and to help children throughout the Nation achieve their hopes and dreams, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-21",
+            "updateDateIncludingText": "2025-04-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/62?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-06-19",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "80",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Calling on the Government of Uganda and the Lord's Resistance Army (LRA) to recommit to a political solution to the conflict in northern Uganda by engaging in good-faith negotiations, and urging immediate and substantial support for the ongoing peace process from the United States and the international community.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-07",
+            "updateDateIncludingText": "2025-04-07",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/80?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-06-21",
+                "text": "Received in the Senate and referred to the Committee on Foreign Relations."
+            },
+            "number": "21",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Calling on the United Nations Security Council to charge Iranian leader Mahmoud Ahmadinejad with violating the 1948 Convention on the Prevention and Punishment of the Crime of Genocide and United Nations Charter because of his calls for the destruction of the State of Israel.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-28",
+            "updateDateIncludingText": "2025-04-28",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/21?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-07-09",
+                "text": "Referred to the Subcommittee on Healthy Families and Communities."
+            },
+            "number": "120",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the Federal government and the people of the United States should honor the spirit of volunteerism and personal growth promoted by the Congressional Award Program.",
+            "type": "HCONRES",
+            "updateDate": "2025-07-21",
+            "updateDateIncludingText": "2025-07-21",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-09-25",
+                "text": "Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "140",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Financial Services Diversity Initiative",
+            "type": "HCONRES",
+            "updateDate": "2026-03-23",
+            "updateDateIncludingText": "2026-03-23",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/140?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-10-16",
+                "text": "Received in the Senate and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "25",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that it is the goal of the United States that, not later than January 1, 2025, the agricultural, forestry, and working land of the United States should provide from renewable resources not less than 25 percent of the total energy consumed in the United States and continue to produce safe, abundant, and affordable food, feed, and fiber.",
+            "type": "HCONRES",
+            "updateDate": "2025-12-05",
+            "updateDateIncludingText": "2025-12-05",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/25?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2007-11-06",
+                "text": "Received in the Senate and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "60",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the goals of Veterans Educate Today's Students (VETS) Day, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-14",
+            "updateDateIncludingText": "2025-01-14",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/60?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2008-05-02",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "112",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the goals and ideas of a National Child Care Worthy Wage Day.",
+            "type": "HCONRES",
+            "updateDate": "2026-03-23",
+            "updateDateIncludingText": "2026-03-23",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/112?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2008-06-24",
+                "text": "Received in the Senate and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "2",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress that children in the United States should understand and appreciate the contributions of individuals from the territories of the United States and the contributions of such individuals in United States history.",
+            "type": "HCONRES",
+            "updateDate": "2026-03-24",
+            "updateDateIncludingText": "2026-03-24",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/2?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2008-06-25",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "32",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the members of the United States Air Force who were killed in the June 25, 1996, terrorist bombing of the Khobar Towers United States military housing compound near Dhahran, Saudi Arabia.",
+            "type": "HCONRES",
+            "updateDate": "2025-06-06",
+            "updateDateIncludingText": "2025-06-06",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/32?format=json"
+        },
+        {
+            "congress": 110,
+            "latestAction": {
+                "actionDate": "2008-10-02",
+                "text": "Referred to the Committee on Rules and Administration."
+            },
+            "number": "61",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress that the United States flag flown over the United States Capitol should be lowered to half-mast one day each month in honor of the brave men and women from the United States who have lost their lives in military conflicts.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-14",
+            "updateDateIncludingText": "2025-01-14",
+            "url": "https://api.congress.gov/v3/bill/110/hconres/61?format=json"
+        },
+        {
+            "congress": 111,
+            "latestAction": {
+                "actionDate": "2009-01-08",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "12",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of Congress that the United States Postal Service should issue a commemorative postage stamp honoring Sam Phillips and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp be issued.",
+            "type": "HCONRES",
+            "updateDate": "2025-02-04",
+            "updateDateIncludingText": "2025-02-04",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/12?format=json"
+        },
+        {
+            "congress": 111,
+            "latestAction": {
+                "actionDate": "2009-01-14",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "10",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the observance of World Stroke Awareness Day, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2024-02-07",
+            "updateDateIncludingText": "2024-02-07",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/10?format=json"
+        },
+        {
+            "congress": 111,
+            "latestAction": {
+                "actionDate": "2009-01-15",
+                "text": "Referred to the House Committee on Rules."
+            },
+            "number": "22",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Establishing the Joint Select Committee on Reorganization and Reform of Foreign Assistance Agencies and Programs.",
+            "type": "HCONRES",
+            "updateDate": "2025-04-07",
+            "updateDateIncludingText": "2025-04-07",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/22?format=json"
+        },
+        {
+            "congress": 111,
+            "latestAction": {
+                "actionDate": "2009-02-04",
+                "text": "Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife."
+            },
+            "number": "2",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the Congress that the United States Fish and Wildlife Service should incorporate consideration of global warming and sea-level rise into the comprehensive conservation plans for coastal national wildlife refuges, and for other purposes.",
+            "type": "HCONRES",
+            "updateDate": "2025-01-02",
+            "updateDateIncludingText": "2025-01-02",
+            "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 425831,
+        "next": "https://api.congress.gov/v3/bill?offset=50&limit=50&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
