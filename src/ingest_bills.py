@@ -9,9 +9,11 @@ API_KEY = os.getenv("CONGRESS_API_KEY")
 BASE_URL = "https://api.congress.gov/v3/bill"
 
 
-def fetch_recent_bills(limit=5):  # Reduced to 5 for testing
+def fetch_bills_by_congress(congress=118, limit=20):
+    """Fetches a list of bills from a specific Congress session."""
+    url = f"https://api.congress.gov/v3/bill/{congress}"
     params = {"api_key": API_KEY, "format": "json", "limit": limit}
-    response = requests.get(BASE_URL, params=params)
+    response = requests.get(url, params=params)
     return response.json().get('bills', []) if response.status_code == 200 else []
 
 
@@ -85,31 +87,31 @@ if __name__ == "__main__":
     if not API_KEY:
         print("Error: CONGRESS_API_KEY not found.")
     else:
-        bills = fetch_recent_bills(limit=5)
+        # TARGETING 118th CONGRESS FOR BETTER DATA QUALITY
+        bills = fetch_bills_by_congress(congress=118, limit=20)
         enriched_data = []
 
         for b in bills:
-            print(f"Fetching text for: {b['type']}{b['number']}...")
+            print(
+                f"Checking: {b['type']}{b['number']} (Congress {b['congress']})")
 
+            # Note: API needs lowercase 'hr', 's', etc.
             text_link = get_bill_text_url(
-                b['congress'], b['type'], b['number'])
+                b['congress'], b['type'].lower(), b['number'])
             full_text = download_bill_content(text_link)
 
             if full_text:
                 enriched_data.append({
                     "congress": b['congress'],
                     "bill_type": b['type'],
-                    "bill_number": b['number'],
+                    # Ensure this is a string for metadata filtering
+                    "bill_number": str(b['number']),
                     "title": b['title'],
                     "full_text": full_text
                 })
                 print(f"Success!")
             else:
-                print(f"No text found for {b['type']}{b['number']}")
+                print(f" No full text yet.")
 
-        os.makedirs("data", exist_ok=True)
         with open("data/enriched_bills.json", "w") as f:
             json.dump(enriched_data, f, indent=4)
-
-        print(
-            f"\nDone! {len(enriched_data)} bills enriched and saved to data/enriched_bills.json")
