@@ -23,7 +23,6 @@ def load_enriched_bills(file_path):
         texts = [c['text'] for c in chunks]
         metadatas = [c['metadata'] for c in chunks]
 
-        # IDEMPOTENCY: Deterministic IDs prevent duplication
         ids = [f"{bill['bill_number']}_{i}" for i in range(len(texts))]
 
         success = False
