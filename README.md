@@ -17,9 +17,9 @@ Query: "Compare bills 42 and 108 on healthcare and energy sectors"
 → Writer    produces executive summary + comparative risk breakdown
 ```
 
----
-<img width="1341" height="890" alt="Screenshot 2026-04-23 at 12 45 58 AM" src="https://github.com/user-attachments/assets/270b7773-f36c-4ed0-9229-a64ddd0189d1" />
 
+<img width="1341" height="890" alt="Screenshot 2026-04-23 at 12 45 58 AM" src="https://github.com/user-attachments/assets/270b7773-f36c-4ed0-9229-a64ddd0189d1" />
+---
 
 ## Architecture
 
